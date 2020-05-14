@@ -84,7 +84,7 @@ class Contact extends Component {
 						   {street} <br />
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span><br />
-                     {email}
+                     {email}<br />
 					   </p>
 				   </div>
             </aside>
@@ -93,5 +93,4 @@ class Contact extends Component {
     );
   }
 }
-
 export default Contact;
