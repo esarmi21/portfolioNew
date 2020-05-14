@@ -43,14 +43,16 @@
         "category":"Tracks projects and tasks where users can assign priority and status.",
         "image":"Project-Tracker.jpg",
         "url":"https://project-tracker.now.sh/",
-        "github":"https://github.com/esarmi21/project-tracker-client"
+        "github":"https://github.com/esarmi21/project-tracker-client",
+        "githubbackend":"https://github.com/esarmi21/project-tracker-api"
       },
       {
         "title":"AC Vibes",
         "category":"A user chat experience while being able to listen to animal crossing music",
         "image":"Animal-crossing.png",
         "url":"https://animalcrossing-chat-app.esarmi21.now.sh/",
-        "github":"https://github.com/esarmi21/Fullstack-capstone1"
+        "github":"https://github.com/esarmi21/Fullstack-capstone1",
+        "githubbackend":"https://github.com/esarmi21/Fullstack-capstone1-server"
       },
       {
         "title":"Brewery Shuffle",
