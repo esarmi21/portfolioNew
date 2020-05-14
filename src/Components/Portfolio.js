@@ -40,7 +40,7 @@ class Portfolio extends Component {
                 Stacks used
               </h1>
               <div className = "stacks-image">
-                <img src="images/portfolio/Stacks.jpg"/>
+                <img src="images/portfolio/Stacks.jpg" alt="stacks"/>
               </div>
             </div>
           </div>
