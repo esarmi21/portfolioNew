@@ -1,0 +1,69 @@
+{
+  "main": {
+    "name":"Jay Sarmiento",
+    "occupation":"Creative Coordinator",
+    "description":"I am a junior web designer and game developer",
+    "image":"profilepic.jpg",
+    "bio":"I'm extremely passionate about the arts and strive to learn different ways to solve real world problems with virtual solutions.",
+    "contactmessage":"Please feel free to contact me.",
+    "email": "esarmi21@gmail.com",
+    "phone": "909-343-8024",
+    "address":{
+      "city":"San Diego",
+      "state":"California",
+      "zip": "92139"
+    },
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/kuuros_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jaysart/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/touchmyart",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/esarmi21",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Project-Tracker",
+        "category":"Tracks projects and tasks where users can assign priority and status.",
+        "image":"Project-Tracker.jpg",
+        "url":"https://project-tracker.now.sh/"
+      },
+      {
+        "title":"AC Vibes",
+        "category":"A user chat experience while being able to listen to animal crossing music",
+        "image":"Animal-crossing.png",
+        "url":"https://animalcrossing-chat-app.esarmi21.now.sh/"
+      },
+      {
+        "title":"Brewery Shuffle",
+        "category":"Web app I built with a classmate that shuffles through breweries in your area promoting trying out new places.",
+        "image":"Brewery-shuffle.jpg",
+        "url":"https://zzboncak.github.io/Brewery-Shuffle/"
+      },
+      {
+        "title":"Jojo's Bizzare Adventure Quiz",
+        "category":"Web based app using only jquery, css, and html",
+        "image":"Jojo-quiz.jpg",
+        "url":"https://esarmi21.github.io/",
+        "github": "https://github.com/esarmi21/esarmi21.github.io"
+      }
+      
+    ]
+  }
+}
