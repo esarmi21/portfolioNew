@@ -4,7 +4,7 @@
     "occupation":"Creative Coordinator",
     "description":"I am a junior web designer and game developer",
     "image":"profilepic.jpg",
-    "bio":"I'm extremely passionate about the arts and strive to learn different ways to solve real world problems with virtual solutions.",
+    "bio":"I'm extremely passionate about the arts and strive to learn different ways to solve real world problems with virtual solutions. I've worked in numerous teams to accomplish my goals moving forward with my web apps.",
     "contactmessage":"Please feel free to contact me.",
     "email": "esarmi21@gmail.com",
     "phone": "909-343-8024",
@@ -42,19 +42,22 @@
         "title":"Project-Tracker",
         "category":"Tracks projects and tasks where users can assign priority and status.",
         "image":"Project-Tracker.jpg",
-        "url":"https://project-tracker.now.sh/"
+        "url":"https://project-tracker.now.sh/",
+        "github":"https://github.com/esarmi21/project-tracker-client"
       },
       {
         "title":"AC Vibes",
         "category":"A user chat experience while being able to listen to animal crossing music",
         "image":"Animal-crossing.png",
-        "url":"https://animalcrossing-chat-app.esarmi21.now.sh/"
+        "url":"https://animalcrossing-chat-app.esarmi21.now.sh/",
+        "github":"https://github.com/esarmi21/Fullstack-capstone1"
       },
       {
         "title":"Brewery Shuffle",
         "category":"Web app I built with a classmate that shuffles through breweries in your area promoting trying out new places.",
         "image":"Brewery-shuffle.jpg",
-        "url":"https://zzboncak.github.io/Brewery-Shuffle/"
+        "url":"https://zzboncak.github.io/Brewery-Shuffle/",
+        "github":"https://github.com/esarmi21/Brewery-Shuffle"
       },
       {
         "title":"Jojo's Bizzare Adventure Quiz",
